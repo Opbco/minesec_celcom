@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "minesec_celcom",
+    "slug": "minesec_celcom",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
